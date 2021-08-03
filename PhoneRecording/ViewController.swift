@@ -14,9 +14,7 @@ class ViewController: UIViewController {
      
         
     }
-    func precondition(index: Int, str: String){
-        
-    }
+    //测试一下当前推送
     
 
 }
